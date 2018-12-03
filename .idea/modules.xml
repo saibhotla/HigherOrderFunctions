@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/higher-order-functions.iml" filepath="$PROJECT_DIR$/higher-order-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/higher-order-functions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/higher-order-functions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/higher-order-functions.test.iml" filepath="$PROJECT_DIR$/.idea/modules/higher-order-functions.test.iml" />
+    </modules>
+  </component>
+</project>
